@@ -1,0 +1,7 @@
+# BLOQUEAR ACESSO AO ARQUIVO README.HTML #
+# BLOCK ACCESS TO README.HTML FILE #
+
+<files readme.html>
+Order deny,allow
+Deny from all
+</files>
